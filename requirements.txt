@@ -7,3 +7,4 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
 face_recognition==1.2.3
+cv2>=4.0.0
